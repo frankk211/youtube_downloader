@@ -1,1 +1,1 @@
-web: gunicorn youtube-downloader.wsgi
+web: gunicorn youtube_downloader.wsgi
