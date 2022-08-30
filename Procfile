@@ -1,1 +1,1 @@
-web: gunicorn yt2av.wsgi
+web gunicorn youtube-video-downloader.wsgi:application --logfile -
